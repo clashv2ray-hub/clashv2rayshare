@@ -7,7 +7,7 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
-关注[「TG频道」](https://t.me/zhongwen_zn) 可第一时间获得节点更新消息，
+关注[「TG频道」](https://t.me/+_gkN4gmsOWFjZmZl) 可第一时间获得节点更新消息，
 
 
 
