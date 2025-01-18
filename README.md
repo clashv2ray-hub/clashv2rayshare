@@ -1,4 +1,4 @@
-# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-1-17 08:56
+# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-1-18 08:56
 
 **https://telegeam.github.io/clashv2rayshare/**
 
@@ -56,18 +56,6 @@
 * * *
 
 
-### [可乐云](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-注册链接：[eded.keley02.top](https://eded.keley02.top/#/login?code=TRbo3nMf)
-
-
-试用：
-
-最便宜的订阅有25元 120G/月。
-
-全球10个国家；99.99% SLA保证；1Gbps带宽保证；1个设备终端在线；IEPL 国际专线
-
-* * *
 
 ### [spcloud](https://invite.spcloud.vip/#/register?code=vS77JVkP)
 
