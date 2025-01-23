@@ -5,7 +5,7 @@
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [EF](#ef) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) |  | 10 元 200G/月 |  |
+| [EF](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [spcloud](#ef) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) |  | 10 元 200G/月 |  |
 | [FC](#ef) | [fastconnectcloud.net](https://www.fastconnectcloud.net/#/register?code=qGNvJ8Oy) |  | 10 元 200G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
@@ -15,14 +15,14 @@
 | [快猫](#xxai) | [kuaimao.io](https://kuaimao.io/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
 | [西瓜云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [goudan.site](https://goudan.site/#/register?code=LQzUg4EU) |  | 9元 120G/月 |  |
 | [稳连云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [9kqq77hqun.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
-| [EF](#ef) | [www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW) |  | 10 元 200G/月 |  |
+| [EF](#ef) | [www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 10 元 200G/月 |  |
 | [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [starlinkcloud.cc](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [huoshaoyun.pro](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 
 
-### [EF](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+### [EF](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[https://www.efcloud1.com](https://www.efcloud1.com/#/register?code=Rg3jlrsW)
+注册链接：[https://www.efcloud1.com](https://kkjiasu.top/#/register?code=lhGhQflc)
 
 
 试用：无
