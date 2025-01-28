@@ -1,4 +1,4 @@
-# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-1-27 08:56
+# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-1-28 08:56
 
 **https://telegeam.github.io/clashv2rayshare/**
 
@@ -15,7 +15,7 @@
 | [稳连云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0) |  | 7元 100G/月 |  |
 | [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
-
+| [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
 ### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
