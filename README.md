@@ -1,11 +1,10 @@
-# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-4-17 08:56
+# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-4-18 08:56
 
 **https://telegeam.github.io/clashv2rayshare/**
 
 
 | 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [KK加速](#ef) | [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc) |  | 8 元 200G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://t.xcvpn.us/#/register?code=tLBWwhPs) |  | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
@@ -17,18 +16,7 @@
 | [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
 
-### [KK加速](https://kkjiasu.top/#/register?code=lhGhQflc)
 
-注册链接：[点击注册](https://kkjiasu.top/#/register?code=lhGhQflc)
-
-
-试用：无
-
-便宜是真便宜，8 块钱买1个月，每个月 200 G 流量。自己用了一个多月，看视频完全不卡，下载游戏也很快。
-
-最大的缺点就是太便宜了
-
-* * *
 
 ### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
 
