@@ -24,7 +24,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 | [EF](#ef) | [www.efcloud1.com](https://tg-nav.github.io/nodeshare) | 无 | 10 元 200G/月 | ❌不支持 |
 | [spcloud](#ef) | [spcloud.vip](https://invite.spcloud.vip/#/register?code=vS77JVkP) | 无 | 10 元 200G/月 | ❌不支持 |
 | [FC](#ef) | [fastconnectcloud.net](https://tg-nav.github.io/nodeshare) | 无 | 10 元 200G/月 | ❌不支持 |
-| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs) | 无 | 9.9元 140G/月 | ❌不支持 |
+| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 无 | 9.9元 140G/月 | ❌不支持 |
 | [宇宙机场](#aladdin) | [宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul) | 无 | 5元 1000G/月 | ❌不支持 | 暂无 |
 | [三分机场](#aladdin) | [uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh) | 无 | 8元 200G/季 | ❌不支持 | 暂无 |
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)| 无 | 9.9元 140G/月 | ❌不支持 |
@@ -52,9 +52,9 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 * * *
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 最便宜的订阅有6元 60G/月。
 
@@ -158,9 +158,9 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 * * *
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[t.xcvpn.us](https://t.xcvpn.us/#/register?code=tLBWwhPs)
+注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 最便宜的订阅有6元 60G/月。
 
