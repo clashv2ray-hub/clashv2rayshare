@@ -1,4 +1,4 @@
-# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-6-18 08:56
+# clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 2025-6-19 08:56
 
 ** https://telegeam.github.io/clashv2rayshare/  **
 
@@ -21,6 +21,8 @@
 ### [【88云加速】](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
+
+最便宜的订阅有10元 200G/月
 
 试用:1天2G
 
