@@ -21,7 +21,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 | [西游云](#ef) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9 元 120G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d)| 3G | 9.9元 140G/月 |  |
-| [flybit](#flybit) | [点击进入](https://goflybit.pages.dev/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 |  |
+| [flybit](#flybit) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 |  |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 |  |
 | [加速啦](#%E5%8A%A0%E9%80%9F%E5%95%A6) | [点击进入](https://jiasu.la/?r=42350) | 1G 不限时 | 10元 60G/月 |  |
 | [KK加速](#ef) | [点击进入](https://tg-nav.github.io/nodeshare) |  | 10 元 200G/月 |  |
