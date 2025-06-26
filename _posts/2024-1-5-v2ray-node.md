@@ -26,7 +26,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 | [FC](#ef) | [fastconnectcloud.net](https://tg-nav.github.io/nodeshare) | 无 | 10 元 200G/月 | ❌不支持 |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 无 | 9.9元 140G/月 | ❌不支持 |
 | [宇宙机场](#aladdin) | [宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul) | 无 | 5元 1000G/月 | ❌不支持 | 暂无 |
-| [三分机场](#aladdin) | [uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh) | 无 | 8元 200G/季 | ❌不支持 | 暂无 |
+
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)| 无 | 9.9元 140G/月 | ❌不支持 |
 | [flybit](#flybit) | [flybit.my](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [https://cpdd.one](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
@@ -64,34 +64,12 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 * * *
 
-### [三分机场](https://uk.sanfen.me/register?code=D3AphwEh)
 
-注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
-
-
-
-最便宜的订阅有9.9元 80G/月。
-
-全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
-
-* * *
 
 ### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
-
-### [宇宙机场](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-试用：
 
 最便宜的订阅有5元 1000G/月。
 
@@ -116,13 +94,6 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 解锁流媒体、chatGPT
 
 注册地址：[【EFCloud官网（点击注册）】](https://tg-nav.github.io/nodeshare)
-##  高速机场推荐2
-
-[【FCCloud】](https://www.fccloud1.com/#/register?code=9BV1HHRM)
-
-FCCloud全球节点，解锁流媒体GPT，平民价格
-
-注册地址：[【FCCloud（点击注册）】](https://www.fccloud1.com/#/register?code=9BV1HHRM)
 
 ##  高速机场推荐3
 
@@ -170,18 +141,6 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 * * *
 
-### [三分机场](https://uk.sanfen.me/register?code=D3AphwEh)
-
-注册链接：[uk.sanfen.me](https://uk.sanfen.me/register?code=D3AphwEh)
-
-
-
-最便宜的订阅有9.9元 80G/月。
-
-全球20+国家和地区的节点 包含100+节点；更高级的流媒体解锁 多地原生ip；速度更快更稳定 适合主力使用；限制5个客户端同时在线
-
-* * *
-
 ### [稳连云](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
 
 注册链接：[wl.awcmam.com](https://xn--9kqq77hqun.com/#/register?code=tsTYVbC0)
@@ -194,17 +153,6 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 
 * * *
 
-### [宇宙机场](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-注册链接：[宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul)
-
-试用：
-
-最便宜的订阅有5元 1000G/月。
-
-流媒体解锁；支持协议vmess；仅限本人使用；不限制本人设备数；500M 峰值带宽
-
-* * *
 
 ## 高速机场推荐
 
@@ -223,13 +171,6 @@ FCCloud全球节点，解锁流媒体GPT，平民价格
 解锁流媒体、chatGPT
 
 注册地址：[【EFCloud官网（点击注册）】](https://tg-nav.github.io/nodeshare)
-##  高速机场推荐2
-
-[【FCCloud】](https://www.fccloud1.com/#/register?code=9BV1HHRM)
-
-FCCloud全球节点，解锁流媒体GPT，平民价格
-
-注册地址：[【FCCloud（点击注册）】](https://www.fccloud1.com/#/register?code=9BV1HHRM)
 
 ##  高速机场推荐3
 
