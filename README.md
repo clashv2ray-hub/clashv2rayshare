@@ -1,4 +1,4 @@
-## 更新时间 2025-07-12
+## 更新时间 2025-07-13
 # clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 
 
 
@@ -8,12 +8,12 @@
 
 ##  付费机场推荐
 
-| 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
+| 机场名称 | 地址 | | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-[88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | 1天2G 	 | 10元 100G/月 |✔支持 |
+[88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) |	 | 10元 100G/月 |✔支持 |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%) | [点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
-| [flybit](#flybit) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
-| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 | ✔支持 |
+| [flybit](#flybit) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
+| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) |  | 5元 150G/30天 | ✔支持 |
 | [快猫](#xxai) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
 | [西瓜云](https://goudan.site/#/register?code=2mVFWPT1) | [点击进入](https://goudan.site/#/register?code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
@@ -28,7 +28,7 @@
 
 最便宜的订阅有10元 200G/月
 
-试用:1天2G
+
 
 解锁奈飞迪士尼
 
@@ -40,7 +40,7 @@
 
 点击注册：[点击进入](https://cpdd.one/?r=42354)
 
-试用：1天 1G
+
 
 最便宜的订阅有10元 300G/30天。
 
@@ -60,7 +60,7 @@
 
 注册链接：[点击注册](https://t.xcvpn.us/#/register?code=jWv0CnPO)
 
-试用：
+
 
 最便宜的订阅有6元 60G/月。
 
@@ -77,7 +77,7 @@
 注册链接：[点击注册](https://www.dginv.click/#/register?code=yi5aid0d)
 
 
-试用：
+
 
 最便宜的订阅有15.8元 160G/月。
 
@@ -91,7 +91,7 @@
 
 点击注册：[点击进入](https://cpdd.one/?r=42354)
 
-试用：1天 1G
+
 
 最便宜的订阅有10元 300G/30天。
 
@@ -105,7 +105,7 @@
 注册链接：[点击进入](https://goudan.site/#/register?code=2mVFWPT1)
 
 
-试用：
+
 
 最便宜的订阅有9元 120G/月。
 
@@ -118,7 +118,7 @@
 注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
 
 
-试用：1天 2G
+
 
 最便宜的订阅有10元 100G/月。
 
