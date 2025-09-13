@@ -15,7 +15,7 @@
 | [flybit](#flybit) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) |  | 5元 150G/30天 | ✔支持 |
 | [快猫](#xxai) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
-| [西瓜云](https://goudan.site/#/register?code=2mVFWPT1) | [点击进入](https://goudan.site/#/register?code=2mVFWPT1) |  | 9元 120G/月 |  |
+| [西瓜云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
 | [星链云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://starlinkcloud.cc/#/register?code=UTNDuia8) |  | 20元 200G/月 |  |
 | [火烧云](#%E9%9D%92%E4%BA%91%E6%A2%AF) | [点击进入](https://cn1.huoshaoyun.pro/#/register?code=BP3fNkQd) |  | 18元 100G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL)  |  | 8.9元 129G/月 |  |
@@ -100,9 +100,9 @@
 * * *
 
 
-### [西游云](https://goudan.site/#/register?code=2mVFWPT1)
+### [西游云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1)
 
-注册链接：[点击进入](https://goudan.site/#/register?code=2mVFWPT1)
+注册链接：[点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1)
 
 
 
