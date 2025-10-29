@@ -12,7 +12,7 @@
 | 机场名称 | 地址 | | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
 [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) |	 | 10元 300G/月 |✔支持 |
-| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%) | [点击进入](https://t.xcvpn.us/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
+| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%) | [点击进入](https://c.xcvpn.me/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) |  | 5元 150G/30天 | ✔支持 |
 | [快猫](#xxai) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
@@ -57,9 +57,9 @@
 <h3>4. 支持多设备同时使用，无限制，畅连全球！</h3>
 <h3></h3>
 
-### [星辰VPN](https://t.xcvpn.us/#/register?code=jWv0CnPO)
+### [星辰VPN](https://c.xcvpn.me/#/register?code=jWv0CnPO)
 
-注册链接：[点击注册](https://t.xcvpn.us/#/register?code=jWv0CnPO)
+注册链接：[点击注册](https://c.xcvpn.me/#/register?code=jWv0CnPO)
 
 
 
