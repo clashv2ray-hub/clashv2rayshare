@@ -21,7 +21,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 无 | 9.9元 140G/月 | ❌不支持 |
+| [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [c.xcvpn.me](https://88cloud.dpdns.org/#/register?code=LSpR3sOK) | 无 | 9.9元 140G/月 | ❌不支持 |
 | [宇宙机场](#aladdin) | [宇宙机场.com](https://xn--mesx3htbz31e.com/#/register?code=Cy7u71Ul) | 无 | 5元 1000G/月 | ❌不支持 | 暂无 |
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [dginv.click](https://www.dginv.click/#/register?code=yi5aid0d)| 无 | 9.9元 140G/月 | ❌不支持 |
 | [flybit](#flybit) | [flybit.my](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 | ✔支持 |
@@ -33,7 +33,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 ### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[c.xcvpn.me](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 最便宜的订阅有6元 60G/月。
 
@@ -101,7 +101,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 ### [星辰VPN](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-注册链接：[t.xcvpn.us](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
+注册链接：[c.xcvpn.me](https://88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 最便宜的订阅有6元 60G/月。
 
