@@ -1,4 +1,4 @@
-## 更新时间 2025-11-23
+## 更新时间 2025-11-24
 
 # clash节点、v2ray节点，免费clash节点、免费节点、免费梯子、clash科学上网、clash翻墙、clash订阅链接、clash for Windows、clash教程、免费公益节点、最新clash免费节点订阅、clash免费节点每日更新 
 
@@ -13,7 +13,7 @@
 | :------- | :--- | :--- | :--------- | :-------- |
 [88云加速](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) |	 | 10元 300G/月 |✔支持 |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%) | [点击进入](https://c.xcvpn.me/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
-| [flybit](#flybit) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
+| [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) |  | 10元 100G/月 | ✔支持 |
 | [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://cpdd.one/?r=42354) |  | 5元 150G/30天 | ✔支持 |
 | [快猫](#xxai) | [点击进入](https://cf2.ikuaimao.world/#/register?code=9xg6G0AV) |  | 10元 100G/月 | ✔支持 |季付/半年付/年付送小火箭|
 | [西瓜云](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) | [点击进入](https://www.xiyou666.xyz/?path=register&code=2mVFWPT1) |  | 9元 120G/月 |  |
@@ -114,9 +114,9 @@
 
 * * *
 
-### [flybit](https://flybit.my/#/register?code=iV0dLWfT)
+### [flybit](https://flybit.vip/#/register?code=iV0dLWfT)
 
-注册链接：[点击进入](https://flybit.my/#/register?code=iV0dLWfT)
+注册链接：[点击进入](https://flybit.vip/#/register?code=iV0dLWfT)
 
 
 
