@@ -22,7 +22,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 | [星辰vpn](https://c.xcvpn.me/#/register?code=jWv0CnPO) | [点击进入](https://c.xcvpn.me/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](https://www.dginv.click/#/register?code=yi5aid0d) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d)| 3G | 9.9元 140G/月 |  |
 | [flybit](https://flybit.vip/#/register?code=iV0dLWfT) | [点击进入](https://flybit.vip/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 |  |
-| [冲上云霄](https://cpdd.one/?r=42354) | [点击进入](https://cpdd.one/?r=42354) | 1天 1G | 5元 150G/30天 |  |
+| [冲上云霄](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | 1天 1G | 5元 150G/30天 |  |
 
 
 
@@ -40,9 +40,9 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 *  *   *
 
-### [冲上云霄](https://cpdd.one/?r=42354)
+### [冲上云霄](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
-点击注册：[点击进入](https://cpdd.one/?r=42354)
+点击注册：[点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 
 
@@ -79,9 +79,9 @@ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/1/20260108.json
 ## [简介](#简介)
 
 
-### [冲上云霄](https://cpdd.one/?r=42354)
+### [冲上云霄](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
-点击注册：[点击进入](https://cpdd.one/?r=42354)
+点击注册：[点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 试用：1天 1G
 
@@ -116,9 +116,9 @@ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/1/20260108.json
 
 ## 高速机场推荐1
 
-### [冲上云霄](https://cpdd.one/?r=42354)
+### [冲上云霄](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
-点击注册：[点击进入](https://cpdd.one/?r=42354)
+点击注册：[点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 试用：1天 1G
 
@@ -182,9 +182,9 @@ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/1/20260108.json
 * * *
 
 
-### [冲上云霄](https://cpdd.one/?r=42354)
+### [冲上云霄](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
-点击注册：[点击进入](https://cpdd.one/?r=42354)
+点击注册：[点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
 
 试用：1天 1G
 
