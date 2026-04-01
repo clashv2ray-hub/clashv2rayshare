@@ -66,15 +66,15 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 订阅链接
 clash订阅链接
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/3/20260401.yaml
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/4/20260401.yaml
 
 v2ray订阅链接:
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/3/20260401.txt
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/4/20260401.txt
 
 sing-box订阅链接
 
-https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/3/20260401.json
+https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/4/20260401.json
 
 ## [简介](#简介)
 
