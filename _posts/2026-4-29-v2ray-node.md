@@ -16,7 +16,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [88云加速](https://88cloud.pages.dev/#/register?code=n4KLfZJb) | [点击进入](https://88cloud.pages.dev/#/register?code=n4KLfZJb) |  	 | 10元 300G/月 |  |
+| [88云加速](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) |  	 | 10元 300G/月 |  |
 | [冰灵加速](https://sulian.info/#/register?code=3R5DYYrL) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9 元 129G/月 |  |
 | [西游云](https://goudan.site/#/register?code=2mVFWPT1) | [点击进入](https://goudan.site/#/register?code=2mVFWPT1) |  | 9 元 120G/月 |  |
 | [星辰vpn](https://c.xcvpn.me/#/register?code=jWv0CnPO) | [点击进入](https://c.xcvpn.me/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
@@ -26,7 +26,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 
 
-### [【88云加速】](https://88cloud.pages.dev/#/register?code=n4KLfZJb)
+### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
@@ -36,7 +36,7 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 解锁奈飞迪士尼
 
-注册地址：[【88云加速（点击注册）】](https://88cloud.pages.dev/#/register?code=n4KLfZJb)
+注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 *  *   *
 

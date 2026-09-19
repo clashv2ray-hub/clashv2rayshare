@@ -16,17 +16,17 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 机场名称 | 地址 | 试用 | 最便宜订阅 | 按流量购买 |
 | :------- | :--- | :--- | :--------- | :-------- |
-| [88云加速](https://88cloud.pages.dev/#/register?code=n4KLfZJb) | [点击进入](https://88cloud.pages.dev/#/register?code=n4KLfZJb) | 1天2G 	 | 10元 300G/月 |  |
+| [88云加速](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb) | 1天2G 	 | 10元 300G/月 |  |
 | [冰灵加速](#ef) | [点击进入](https://sulian.info/#/register?code=3R5DYYrL) |  | 8.9 元 129G/月 |  |
 | [西游云](https://goudan.site/#/register?code=2mVFWPT1) | [点击进入](https://goudan.site/#/register?code=2mVFWPT1) |  | 9 元 120G/月 |  |
 | [星辰vpn](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://c.xcvpn.me/#/register?code=jWv0CnPO) |  | 9.9元 140G/月 |  |
 | [狗狗加速器](#%E9%BE%99%E7%8C%AB%E4%BA%91) | [点击进入](https://www.dginv.click/#/register?code=yi5aid0d)| 3G | 9.9元 140G/月 |  |
 | [flybit](#flybit) | [点击进入](https://flybit.my/#/register?code=iV0dLWfT) | 1天2G | 10元 100G/月 |  |
-| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK) | 1天 1G | 5元 150G/30天 |  |
+| [冲上云霄](#%E5%86%B2%E4%B8%8A%E4%BA%91%E9%9C%84) | [点击进入](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK) | 1天 1G | 5元 150G/30天 |  |
 
 
 
-### [【88云加速】](https://88cloud.pages.dev/#/register?code=n4KLfZJb)
+### [【88云加速】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 原生支持解锁流媒体，内容包括 Netflix、Disney、HBO、TVB、Happyon、AbemaTV 等在内的多种流媒体视频
 
@@ -36,13 +36,13 @@ keywords: Clash,v2ray,iOS,Quantumult,Quantumult X,Shadowrocket,SSR,节点,苹果
 
 解锁奈飞迪士尼
 
-注册地址：[【88云加速（点击注册）】](https://88cloud.pages.dev/#/register?code=n4KLfZJb)
+注册地址：[【88云加速（点击注册）】](https://qq.88cloud.dpdns.org/#/register?code=n4KLfZJb)
 
 *  *   *
 
-### [冲上云霄](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+### [冲上云霄](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-点击注册：[点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+点击注册：[点击进入](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 
 
@@ -79,9 +79,9 @@ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/1/20260102.json
 ## [简介](#简介)
 
 
-### [冲上云霄](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+### [冲上云霄](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-点击注册：[点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+点击注册：[点击进入](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：1天 1G
 
@@ -116,9 +116,9 @@ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/1/20260102.json
 
 ## 高速机场推荐1
 
-### [冲上云霄](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+### [冲上云霄](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-点击注册：[点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+点击注册：[点击进入](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：1天 1G
 
@@ -182,9 +182,9 @@ https://sfdr.zaixianyouxi.dpdns.org/uploads/2026/1/20260102.json
 * * *
 
 
-### [冲上云霄](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+### [冲上云霄](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
-点击注册：[点击进入](https://88cloud.pages.dev/#/register?code=LSpR3sOK)
+点击注册：[点击进入](https://qq.88cloud.dpdns.org/#/register?code=LSpR3sOK)
 
 试用：1天 1G
 
