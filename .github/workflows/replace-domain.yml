@@ -12,9 +12,9 @@ jobs:
       - name: 检出代码
         uses: actions/checkout@v4
 
-      - name: 替换文本
+      - name: 替换文本www.8891888.xyz
         run: |
-          find . -type f -not -path '*/.*' -exec sed -i 's|88cloud.pages.dev|qq.88cloud.dpdns.org|g' {} +
+          find . -type f -not -path '*/.*' -exec sed -i 's|qq.88cloud.dpdns.org|www.8891888.xyz|g' {} +
 
       - name: 提交并推送修改
         uses: stefanzweifel/git-auto-commit-action@v5
